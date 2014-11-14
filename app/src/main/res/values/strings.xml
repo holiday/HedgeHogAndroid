@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HedgeHog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fact_one_string">European hedgehogs in the UK hibernate throughout winter. They feed as much as possible during the autumn and in around October build its nest of leaves and grass in which to hibernate</string>
+
+</resources>
